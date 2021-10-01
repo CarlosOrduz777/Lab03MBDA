@@ -1,0 +1,10 @@
+insert into Personas (codigo, vinculacion) values (1, '2019-04-27');
+insert into Personas (codigo, vinculacion) values (2, '2020-04-01');
+insert into Personas (codigo, vinculacion) values (3, '2020-12-05');
+insert into Personas (codigo, vinculacion) values (4, '2019-04-22');
+insert into Personas (codigo, vinculacion) values (5, '2018-09-02');
+insert into Personas (codigo, vinculacion) values (6, '2021-05-04');
+insert into Personas (codigo, vinculacion) values (7, '2020-08-29');
+insert into Personas (codigo, vinculacion) values (8, '2020-09-04');
+insert into Personas (codigo, vinculacion) values (9, '2019-02-19');
+insert into Personas (codigo, vinculacion) values (10, '2021-03-22');

@@ -1,0 +1,10 @@
+insert into Proyectos (codigo, ubicacionId, servicioId, personaId, nombre, inicio, fin, recursos) values (1, 1, 1, 1, 'Cassandry', '18/05/2021', '31/05/2018', 6);
+insert into Proyectos (codigo, ubicacionId, servicioId, personaId, nombre, inicio, fin, recursos) values (2, 2, 2, 2, 'Tades', '18/02/2021', '15/10/2018', 98);
+insert into Proyectos (codigo, ubicacionId, servicioId, personaId, nombre, inicio, fin, recursos) values (3, 3, 3, 3, 'Theodore', '21/04/2021', '05/08/2021', 44);
+insert into Proyectos (codigo, ubicacionId, servicioId, personaId, nombre, inicio, fin, recursos) values (4, 4, 4, 4, 'Matias', '19/08/2021', '02/09/2019', 3);
+insert into Proyectos (codigo, ubicacionId, servicioId, personaId, nombre, inicio, fin, recursos) values (5, 5, 5, 5, 'Rockie', '30/12/2020', '09/10/2020', 68);
+insert into Proyectos (codigo, ubicacionId, servicioId, personaId, nombre, inicio, fin, recursos) values (6, 6, 6, 6, 'Chrystel', '10/01/2021', '17/08/2019', 12);
+insert into Proyectos (codigo, ubicacionId, servicioId, personaId, nombre, inicio, fin, recursos) values (7, 7, 7, 7, 'Bethany', '02/02/2021', '14/02/2021', 74);
+insert into Proyectos (codigo, ubicacionId, servicioId, personaId, nombre, inicio, fin, recursos) values (8, 8, 8, 8, 'Reggie', '04/07/2021', '09/12/2021', 82);
+insert into Proyectos (codigo, ubicacionId, servicioId, personaId, nombre, inicio, fin, recursos) values (9, 9, 9, 9, 'Spencer', '07/12/2020', '02/05/2018', 73);
+insert into Proyectos (codigo, ubicacionId, servicioId, personaId, nombre, inicio, fin, recursos) values (10, 10, 10, 10, 'Stuart', '17/08/2021', '17/05/2018', 49);

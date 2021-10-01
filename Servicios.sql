@@ -1,0 +1,10 @@
+insert into Servicios (codigo, nombre, tipo, presupuesto) values (1, 'I', 'MacCart', 97875756);
+insert into Servicios (codigo, nombre, tipo, presupuesto) values (2, 'D', 'Skipping', 87456384);
+insert into Servicios (codigo, nombre, tipo, presupuesto) values (3, 'C', 'Domel', 342647696);
+insert into Servicios (codigo, nombre, tipo, presupuesto) values (4, 'C', 'McKinie', 64828668);
+insert into Servicios (codigo, nombre, tipo, presupuesto) values (5, 'D', 'Esser', 156295561);
+insert into Servicios (codigo, nombre, tipo, presupuesto) values (6, 'I', 'Walrond', 162017148);
+insert into Servicios (codigo, nombre, tipo, presupuesto) values (7, 'C', 'Held', 328236481);
+insert into Servicios (codigo, nombre, tipo, presupuesto) values (8, 'C', 'Bothen', 981455839);
+insert into Servicios (codigo, nombre, tipo, presupuesto) values (9, 'I', 'Ripping', 644434828);
+insert into Servicios (codigo, nombre, tipo, presupuesto) values (10, 'D', 'Eslinger', 276518230);

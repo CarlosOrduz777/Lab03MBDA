@@ -1,0 +1,10 @@
+insert into Ubicaciones (codigo, municipio, departamento) values (1, 'Wonosari', 'Kilju');
+insert into Ubicaciones (codigo, municipio, departamento) values (2, 'Gaocang', 'Oum Hadjer');
+insert into Ubicaciones (codigo, municipio, departamento) values (3, 'Mazongshan', 'Luxor');
+insert into Ubicaciones (codigo, municipio, departamento) values (4, 'Keles Timur', 'Erdao');
+insert into Ubicaciones (codigo, municipio, departamento) values (5, 'Skidal’', 'Resende');
+insert into Ubicaciones (codigo, municipio, departamento) values (6, 'Elbasan', 'Hongdu');
+insert into Ubicaciones (codigo, municipio, departamento) values (7, 'Luzino', 'Xiluodu');
+insert into Ubicaciones (codigo, municipio, departamento) values (8, 'São Fidélis', 'Santa Monica');
+insert into Ubicaciones (codigo, municipio, departamento) values (9, 'Nizhniy Lomov', 'Mulyoagung');
+insert into Ubicaciones (codigo, municipio, departamento) values (10, 'Naguilian', 'Mont-Saint-Aignan');
